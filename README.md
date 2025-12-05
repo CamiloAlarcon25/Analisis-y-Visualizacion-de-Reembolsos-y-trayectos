@@ -32,3 +32,5 @@ El dashboard de Power BI proporciona una visión clara de la dinámica de gastos
 #### •	Trayectos Más Costosos: El análisis de los trayectos más caros indica que los viajes del 3 de noviembre ($231.056) y el del día 12 de octubre ($195.788) son las de mayor valor.
 #### •	Visualización Geográfica: El mapa de trayecto muestra claramente los puntos de origen y destino más frecuentes, concentrándose la actividad entre la Región de Valparaíso (Villa Alemana / La Calera) y la Región de Atacama (Copiapó / El Salvador).
 
+Enlace del dashboard en formato pdf:
+https://github.com/CamiloAlarcon25/Analisis-y-Visualizacion-de-Reembolsos-y-trayectos/blob/main/pbix_Reembolso.pdf
